@@ -25,7 +25,6 @@
 ![WordPress](https://img.shields.io/badge/-WordPress-000?style=for-the-badge&logo=wordpress&logoColor=21759B)
 ![Magento](https://img.shields.io/badge/-Magento-000?style=for-the-badge&logo=magento&logoColor=EE672F)
 ![SalesForce](https://img.shields.io/badge/-SalesForce-000?style=for-the-badge&logo=salesforce&logoColor=00A1E0)
-![Sass](https://img.shields.io/badge/-Sass-000?style=for-the-badge&logo=sass)
 
 ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
