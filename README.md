@@ -22,10 +22,10 @@
 
 
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6)
-![SASS](https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white)
-![TAILWIND](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=1572B6)
+![TAILWIND](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=1572B6)
 
-![Vtex](https://img.shields.io/badge/VTEX-ED125F.svg?style=for-the-badge&logo=VTEX&logoColor=white)
+![Vtex](https://img.shields.io/badge/VTEX-ED125F.svg?style=for-the-badge&logo=VTEX&logoColor=1572B)
 ![WordPress](https://img.shields.io/badge/-WordPress-000?style=for-the-badge&logo=wordpress&logoColor=21759B)
 ![Magento](https://img.shields.io/badge/-Magento-000?style=for-the-badge&logo=magento&logoColor=EE672F)
 ![SalesForce](https://img.shields.io/badge/-SalesForce-000?style=for-the-badge&logo=salesforce&logoColor=00A1E0)
