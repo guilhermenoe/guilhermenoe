@@ -27,6 +27,7 @@
 ![SalesForce](https://img.shields.io/badge/-SalesForce-000?style=for-the-badge&logo=salesforce&logoColor=00A1E0)
 
 ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
+![NextJS]([https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white))
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6)
 
